@@ -1,0 +1,2 @@
+#
+A remote island off the West coast of the [[South Hand]] in the shape of a crescent. Its location caused its species to have unique evolutions. Few have ventured there, and there have been rumors of a dragon maintaining its residence nearby.

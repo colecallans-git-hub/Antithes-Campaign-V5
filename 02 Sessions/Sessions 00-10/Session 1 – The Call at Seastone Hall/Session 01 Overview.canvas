@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"230cf29727be9710","type":"file","file":"03 Worldbuilding/NPC Characters/Captain Xund Wavebreaker/Captain Xund Wavebreaker.md","x":-800,"y":-860,"width":660,"height":280},
+		{"id":"ee02b39e4fae882c","type":"file","file":"03 Worldbuilding/NPC Characters/Fin the Dockhand/Fin the Dockhand.md","x":-1460,"y":-860,"width":660,"height":280},
+		{"id":"ce302ee3af42ebba","type":"file","file":"03 Worldbuilding/NPC Characters/Mirene Thalor/Mirene Thalor.md","x":-140,"y":-860,"width":740,"height":280},
+		{"id":"ae6c82b7eb328358","type":"file","file":"02 Sessions/Sessions 00-10/Session 1 – The Call at Seastone Hall/Session 1 – The Call at Seastone Hall.md","x":-1460,"y":-580,"width":1140,"height":580},
+		{"id":"6133ca4c8a810351","type":"file","file":"02 Sessions/Sessions 00-10/Session 1 – The Call at Seastone Hall/Session 1 – The Call at Seastone Hall.md","x":-1460,"y":0,"width":2060,"height":500},
+		{"id":"cc8306dc8decb558","type":"file","file":"02 Sessions/Sessions 00-10/Session 1 – The Call at Seastone Hall/Session 01 Notes.md","x":-1460,"y":-1440,"width":2060,"height":580},
+		{"id":"cc43dcca36f0738b","type":"file","file":"01 Player Characters/01 Player Characters.md","x":-320,"y":-580,"width":920,"height":580}
+	],
+	"edges":[]
+}

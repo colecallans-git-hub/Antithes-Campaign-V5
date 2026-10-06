@@ -1,0 +1,2 @@
+#
+A highly civilized land in the [[Land of Five]] and the [[Lands of the Hand]]. This land is home to the origin of (insert kingdom), and the founding of the [[Palace of the Hand]]. For generations, the (kingdom) ruled over this land, and the [[South Hand]].
