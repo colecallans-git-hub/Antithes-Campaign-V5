@@ -1,0 +1,3 @@
+#
+This shore on the [[Southern Dragonlands]] extends East from the coasts of [[Varaxes]]. This beach is barren. It always has calm, small lapping waves on a beach made of smoothed pebbles and small fossilized sea life. Those that walk it might find skeletons of larger beached animals, few creatures that burrow in the sand, and rarely finding birds, roaming the sky for any sign of a meal.
+Those that wash up here are almost guaranteed to be dead, both picked apart in the ocean and cleaned by what might be living on shore. A light feeling fog covers the water, obscuring sight into the [[Serpent's Deep]].

@@ -1,0 +1,3 @@
+#city
+The [[South Hand]], having been connected under rule of the [[Palace of the Hand]] in the past, now suffers from some political strife. The Inward City, located at the South tip of the South Hand, has been taken over by a large group of people looking to become independent,
+Knowing that the city is self-sufficient, the people have barricaded themselves behind the walls and will hurt anyone who might get too close. They have been at odds with the militaries of the [[North Hand]].

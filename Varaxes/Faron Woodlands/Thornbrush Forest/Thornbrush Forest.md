@@ -1,0 +1,2 @@
+#Forest 
+This forest encapsulates the [[Degano Lake]] as well as the eastern side of the base of [[Apex Fortuna]]. Connecting to the [[Whispering Willow Woods]] on the other side of [[Hero's Clearing]], the Thornbrush contains plenty of thickets, brambles and thorns to hinder travelers along its path. These thick branches also like to move on their own, simultaneously covering and revealing new paths throughout the day. 

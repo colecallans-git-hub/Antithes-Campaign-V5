@@ -1,0 +1,2 @@
+#Forest 
+A wooded haven for elves in the [[Faron Woodlands]], this is one of the most magically charged forests in [[Varaxes]] along with the [[Faron Wilds]]. It is directly connected to the [[Sacred Tree Bodhisattva]], and contains the [[Kokiri Shadowmere]].Outsiders tell tales of a mist that coats the forest, which brings about illusions.

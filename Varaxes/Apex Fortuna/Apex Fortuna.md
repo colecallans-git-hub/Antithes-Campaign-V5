@@ -1,0 +1,2 @@
+#Mountain 
+The sole mountain in [[Varaxes]]. It is home to a variety of mountain-dwelling creatures, necessary for the environment to flourish. The [[Degano Lake]] helps work with the mountain to provide for the flora and fauna of this niche environment.
