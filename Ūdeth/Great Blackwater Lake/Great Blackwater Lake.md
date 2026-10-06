@@ -1,0 +1,2 @@
+#Bodyofwater 
+A portion of the meteor that created the [[Crater Sea]] broke off and hit [[Ūdeth]] North of the sea, creating the Blackwater Lake. Mostly surrounded by the [[Bowels of the Blight]], this lake (the largest technical lake in [[Antithes]]) has taken on many aspect of its neighboring swamp. Pitch black water offers no visibility, and nobody really knows what may be lurking under the surface, as nobody ever comes out once they go in. 

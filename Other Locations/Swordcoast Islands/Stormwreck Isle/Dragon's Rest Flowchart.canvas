@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"ee86405e43e14eab","type":"file","file":"Travel to Stormwreck Isle.png","x":-951,"y":-780,"width":575,"height":160},
+		{"id":"318e8c15f0840f7d","type":"file","file":"Dragon's Rest Path.png","x":-663,"y":-500,"width":585,"height":50},
+		{"id":"172c49cf9a21ab36","type":"file","file":"Reaching Dragon's Rest.png","x":-603,"y":-360,"width":466,"height":284},
+		{"id":"4204dff9c831efd7","type":"file","file":"03 Worldbuilding/NPC Characters/Runara/Runara.md","x":0,"y":-418,"width":660,"height":400},
+		{"id":"6512404466a09007","type":"text","text":"Introduce Runara","x":-250,"y":-76,"width":250,"height":60},
+		{"id":"440779c095e90b93","type":"file","file":"03 Worldbuilding/Creatures, Monsters, etc/Zombie/Zombie.md","x":-300,"y":-780,"width":525,"height":250},
+		{"id":"747d02d6a9a0c980","type":"file","file":"03 Worldbuilding/Antithes/Other Locations/Swordcoast Islands/Stormwreck Isle/Dragon's Rest Maps.md","x":-560,"y":40,"width":690,"height":400},
+		{"id":"5c1b43da16ee93ab","type":"file","file":"03 Worldbuilding/Antithes/Other Locations/Swordcoast Islands/Stormwreck Isle/Stormwreck Isle.md","x":-940,"y":-1240,"width":723,"height":400}
+	],
+	"edges":[
+		{"id":"83a50491a7258b35","fromNode":"ee86405e43e14eab","fromSide":"bottom","toNode":"318e8c15f0840f7d","toSide":"top"},
+		{"id":"9fb71c75888837bb","fromNode":"318e8c15f0840f7d","fromSide":"bottom","toNode":"172c49cf9a21ab36","toSide":"top"},
+		{"id":"c75fb933f1eb26df","fromNode":"172c49cf9a21ab36","fromSide":"right","toNode":"4204dff9c831efd7","toSide":"left"},
+		{"id":"77401f471e5f3797","fromNode":"440779c095e90b93","fromSide":"left","toNode":"318e8c15f0840f7d","toSide":"top"},
+		{"id":"026372dcdafa5f2a","fromNode":"172c49cf9a21ab36","fromSide":"bottom","toNode":"747d02d6a9a0c980","toSide":"top"}
+	]
+}

@@ -1,0 +1,2 @@
+#WonderOfTheWorld 
+This is a mystical tower that shows up on a whim in random locations around the world of Antithes, and leaving them just as quickly. It stores a vast amount of knowledge, held by the gnome [[Scriptorium Keeper Elias]]. 

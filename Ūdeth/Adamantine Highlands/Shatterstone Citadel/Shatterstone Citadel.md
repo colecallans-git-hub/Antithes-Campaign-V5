@@ -1,0 +1,2 @@
+#kingdom 
+Located in the heart of the [[Adamantine Highlands]] in [[Ūdeth]], this is a dwarven kingdom fought for in the [[Commander's Vale]] and built by their ancestors long ago. It is very lively, living off of what the mountain supplies, having supplied their people for millennia due to its sheer size.

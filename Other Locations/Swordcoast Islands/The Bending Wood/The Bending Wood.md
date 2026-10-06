@@ -1,0 +1,3 @@
+#Forest 
+This forest is located just South of the [[Seastone Hall]], as well as littering the areas surrounding it. Seemingly normal to the average passerby, these woods have more than meets the eye upon closer inspection.
+These twisting tree trunks and bending branches hold secrets, speaking of the pathway to the [[Hag Oracle]] and only found by those able to read and follow these runes such as druids and rangers. Hidden in plain sight among the woodlands are totems and other crude creations made of various driftwoods, seaglass-studded bark and cracked husks made as wards and signposts to the oracle's living place. 

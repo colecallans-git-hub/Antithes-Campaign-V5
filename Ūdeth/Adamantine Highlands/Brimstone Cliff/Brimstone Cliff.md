@@ -1,0 +1,2 @@
+#Mountain 
+This is a steep cliff face that is part of the [[Adamantine Highlands]] facing out towards the [[Regalia Sea]]. It is stained a different color from the stone around it due to the fact that the cliff face serves as a means of waste disposal for the smelting done by the dwarves in the [[Shatterstone Citadel]].

@@ -1,0 +1,2 @@
+#Landmark 
+This is an ancient and large statue that has stood on the western shore of the [[Crater Sea]] for as long as history can remember: A robed figure with a hand outstretched. Possibly another long-lived testament to clues of [[The Old World]].

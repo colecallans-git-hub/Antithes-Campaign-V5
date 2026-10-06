@@ -1,0 +1,2 @@
+#WonderOfTheWorld #stronghold 
+The mountain, and large hidden hole filled with the most apex predators on the [[Isle of Beasts]]. This is one of the [[Ten Wonders of the World]], and hardly anyone would live to see it and tell the tale.

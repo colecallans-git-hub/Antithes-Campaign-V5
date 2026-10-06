@@ -1,0 +1,2 @@
+#
+The long strip of islands along the western shore of [[Varaxes]], and southeastern coast of [[Ūdeth]], once connecting the two. These see much activity from all manner of ships. Not many of these islands see many dragons due to its proximity to common lands and villages, but they are more commonly spotted near the Dragon Spires just North of [[Stormwreck Isle]].

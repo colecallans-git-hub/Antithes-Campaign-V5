@@ -1,0 +1,2 @@
+#Bodyofwater 
+This is a shallow and narrow pass cramped with cliffsides between the lands of [[Harrenhill]] and the [[Land of Iron]]. These waters are a dangerous, but important trade route North past Harrenhill. Many ship masts and flags can be seen sticking out of the water, some treasure and trade goods lost to the sea. 

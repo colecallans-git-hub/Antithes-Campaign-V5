@@ -1,0 +1,3 @@
+#
+This is a very remote island in the [[Cursed Sea]], just South of [[Ūdeth]]. Housing countless beasts who have evolved into their own, it is a place filled with nothing but danger, a gauntlet for those that inhabit it.
+Dust storms plague the land and pain its inhabitants, whittling down survivors and the weak. The sole mountain on the island is home to- and therefor named after- the [[Throne of Beasts]], containing many of the most intense and formidable beasts..

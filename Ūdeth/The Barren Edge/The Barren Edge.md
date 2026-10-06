@@ -1,0 +1,2 @@
+#Mountain 
+This lonely mountain range at the southern coast of [[Ūdeth]] sits just below the [[Palace of the Unworthy]], and serves as a place of exile/estrangement, sometimes even execution- or in worst cases, banishment off the mountain cliff into the water, damned to survive the [[Cursed Sea]] and [[Isle of Beasts]].

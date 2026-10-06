@@ -1,0 +1,1 @@
+This is the desert region encapsulating the center of [[Ūdeth]]. It suffers from drought and scarce survival assistance.

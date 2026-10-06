@@ -1,0 +1,2 @@
+#
+These beautiful white fluffy sand dunes sit just to the East of the delta of Fate's River, in the Northeast section of[[Ūdeth]]. Facing the [[Regalia Sea]], these are peaceful shores that are visited by many Halfling folk that live in [[East Hill]].
