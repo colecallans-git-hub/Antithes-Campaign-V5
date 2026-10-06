@@ -1,0 +1,1 @@
+The Oracle's grotto is located in the heart of [[The Bending Wood]] on the island just South of the [[Seastone Hall]].
